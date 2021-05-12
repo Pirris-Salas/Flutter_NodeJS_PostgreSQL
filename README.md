@@ -1,16 +1,4 @@
-# flutter_api
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+# Flutter_NodeJS_PostgreSQL
+At this project I learned how to deploy a simple Flutter app, using a backend developed with Node JS and PostgreSQL
+>>>>>>> 9906d87da3364d9ab95e07a3165af0ec401cf4c0
